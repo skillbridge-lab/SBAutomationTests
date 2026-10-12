@@ -2,6 +2,15 @@
 //Github/Gitlab/Bucket -> Github is a source code repository for git based projects
 
 //how to initialize git 
+//Create empty git repo in github
+//clone repo in local
+//peform git add
+//git commit -> create version in local
+//git push - uploads changes in github
+
+
+
+
 //git clone -> to clone the project in our local machine
 //git init
 //git add  -> stage changes in vs code -> to add file in git system
