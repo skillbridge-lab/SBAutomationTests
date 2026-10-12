@@ -1,0 +1,12 @@
+{
+    "userName": "deepak",
+    "password": "Password@123",
+    "studentDetails": {
+            "noOfStudents":"15",
+            "studentNames": [
+                "Pankaj", 
+                "Nikhil", 
+                "Gitanjali"
+            ]
+    }
+}

@@ -1,0 +1,8 @@
+//Git - Version control system used to track the files history
+//Github/Gitlab/Bucket -> Github is a source code repository for git based projects
+
+//how to initialize git 
+//git clone -> to clone the project in our local machine
+//git init
+//git add  -> stage changes in vs code -> to add file in git system
+//git commit -> to create local version of files we use git commit
