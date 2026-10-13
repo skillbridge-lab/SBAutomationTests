@@ -1,11 +1,1 @@
 import {test} from '@playwright/test';
-
-
-test('git test', async({page}) {
-  await page.goto('abc.com');
-}
-
-
-test('git test2', async({page}) {
-  await page.goto('abc.com');
-}
