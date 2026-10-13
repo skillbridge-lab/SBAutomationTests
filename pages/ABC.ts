@@ -25,10 +25,6 @@ export class ABC {
         await expect(this.portfolioValue).toBeVisible();
     }
 
-    async printInvestedAmount() {
-        console.log(await this.investedAmount.innerText());
-    }
-
     async clickOnFundExplorer() {
         await this.fundExporerTab.click();
     }
