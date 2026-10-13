@@ -7,3 +7,10 @@ test('Test1', async({page}) => {
     let abc = new ABC(page);
     abc.clickOnFundExplorer();
 })
+
+
+test('Test1', async({page}) => {
+    await page.goto('abc.com');
+    let abc = new ABC(page);
+    abc.clickOnFundExplorer();
+})
